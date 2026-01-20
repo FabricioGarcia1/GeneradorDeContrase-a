@@ -25,5 +25,5 @@ Un script en Bash para generar contraseñas seguras y personalizables con opcion
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/generador-contrasenas.git
-cd generador-contrasenas
+git clone https://github.com/FabricioGarcia1/GeneradorDeContrase-a.git
+cd GeneradorDeContrase-a
